@@ -8,6 +8,7 @@ category: kubernetes
 tags:
 - Kubernetes
 - KubeSpray
+- Tool Setup 
 ---
 
 #1  How to use KubeSpray 

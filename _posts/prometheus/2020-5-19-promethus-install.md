@@ -7,6 +7,7 @@ date:   2020-05-19
 category: prometheus
 tags:
 - Prometheus
+- Tool Setup 
 ---
 
 #1  How to use KubeSpray 

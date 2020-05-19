@@ -20,6 +20,9 @@ links:
   - name:         Prometheus
     url:          /prometheus
     external:     true
+  - name:         Prometheus-install
+    url:          /prometheus-setup
+    external:     false
   - name:         archives
     url:          /archives
     external:     false
@@ -29,33 +32,8 @@ links:
   - name:         about
     url:          /about
     external:     false
-  - name:         test1
-    url:          /test1
-    external:     false
-  - name:         test2
-    url:          /test3
-    external:     false
-  - name:         test3
-    url:          /test3
-    external:     false
-  - name:         test4
-    url:          /test4
-    external:     false
-  - name:         test5
-    url:          /test5
-    external:     false
-  - name:         test6
-    url:          /test6
-    external:     false
-  - name:         test7
-    url:          /test7
-    external:     false
-  - name:         test8
-    url:          /test8
-    external:     false
-  - name:         test9
-    url:          /test9
-    external:     false
+
+
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html

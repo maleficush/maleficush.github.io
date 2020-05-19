@@ -1,6 +1,5 @@
 ---
 layout: blog
-book: true
 road: true
 background: purple
 background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elastic.co%2Fkr%2Felasticsearch&psig=AOvVaw0G69CLcreUQV69dEtGwhP_&ust=1589942425938000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNishZ7zvukCFQAAAAAdAAAAABAD

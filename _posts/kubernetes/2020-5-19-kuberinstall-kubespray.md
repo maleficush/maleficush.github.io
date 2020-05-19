@@ -10,7 +10,15 @@ tags:
 - KubeSpray
 ---
 
-##  How to use KubeSpray 
+#1  How to use KubeSpray 
+KubeSpray를 통한 kube cluster 구축
+ 
+1 개략
+
+2 설계
+
+
+#2  How to use KubeSpray 
 KubeSpray를 통한 kube cluster 구축
  
 1 개략

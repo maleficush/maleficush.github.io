@@ -20,9 +20,9 @@ links:
   - name:         Prometheus
     url:          /prometheus
     external:     true
-  - name:         Prometheus-install
-    url:          /prometheus-setup
-    external:     false
+    - name:         Prometheus-install
+      url:          /prometheus-setup
+      external:     false
   - name:         archives
     url:          /archives
     external:     false

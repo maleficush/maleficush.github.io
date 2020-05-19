@@ -11,7 +11,7 @@ paginate: 15
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         루트
+  - name:         root
     url:          /
     external:     false
   - name:         book

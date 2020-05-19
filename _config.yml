@@ -17,6 +17,9 @@ links:
   - name:         Kubernetes
     url:          /kubernetes
     external:     false
+  - name:         Prometheus
+    url:          /prometheus
+    external:     false
   - name:         archives
     url:          /archives
     external:     false

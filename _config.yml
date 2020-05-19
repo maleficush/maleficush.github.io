@@ -17,12 +17,12 @@ links:
   - name:         Kubernetes
     url:          /kubernetes
     external:     false
-  - name:         book
-    url:          /book
-    external:     false
-  - name:         road
-    url:          /road
-    external:     false
+#  - name:         book
+#    url:          /book
+#    external:     false
+#  - name:         road
+#    url:          /road
+#    external:     false
   - name:         archives
     url:          /archives
     external:     false

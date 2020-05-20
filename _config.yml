@@ -20,6 +20,9 @@ links:
   - name:         DeepLearning
     url:          /deeplearning
     external:     false
+  - name:         Bigdata
+    url:          /bigdata
+    external:     false
   - name:         Backend
     url:          /backend
     external:     false

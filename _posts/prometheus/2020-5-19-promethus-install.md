@@ -1,11 +1,12 @@
 ---
 layout: blog
-prometheus: true
+devops: true
 background-image: https://miro.medium.com/max/640/0*Qat4flC5IwoCqgZx.png
 title:  "Prometheus 설치"
 date:   2020-05-19
-category: prometheus
+category: devops
 tags:
+- Devops
 - Prometheus
 - Tool Setup 
 ---

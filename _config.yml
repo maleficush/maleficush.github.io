@@ -14,11 +14,17 @@ links:
   - name:         root
     url:          /
     external:     false
-  - name:         Kubernetes
-    url:          /kubernetes
+  - name:         Devops
+    url:          /devops
     external:     false
-  - name:         Prometheus
-    url:          /prometheus
+  - name:         DeepLearning
+    url:          /deeplearning
+    external:     false
+  - name:         Backend
+    url:          /backend
+    external:     false
+  - name:         Frontend
+    url:          /frontend
     external:     false
   - name:         archives
     url:          /archives
